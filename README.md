@@ -1,8 +1,8 @@
 ### Hi, I'm Mika Back
 
-Photonics student at **TUM** · free-space optical links · optical networks-on-chip
+Engineering Science student at **TUM** · free-space optical links · optical networks-on-chip
 
-I build and document hardware + algorithms for deeptech photonics:
+These are my current works as an research assistant for Design Automation for WR-ONoCs and for our photonics student club "photum":
 
 - **[photum-fsoc-mvp](https://github.com/MBack11/photum-fsoc-mvp)** — phoTUM free-space optical link (digital twin, receiver aperture, OOK image transfer)
 - **[xring-proxy-master](https://github.com/MBack11/xring-proxy-master)** — joint ring + shortcut MILP search for WR-ONoC routers (XRing follow-on)
