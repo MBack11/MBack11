@@ -1,13 +1,11 @@
 ### Hi, I'm Mika Back
 
-Engineering Science student at **TUM** · free-space optical links · optical networks-on-chip
+Engineering Science student at **TUM** · optical networks-on-chip · free-space optical links
 
-These are my current works as an research assistant for Design Automation for WR-ONoCs and for our photonics student club "photum":
+Current work as a research assistant in **design automation for WR-ONoCs** (Chair of EDA, TUM) and in the photonics student club **[phoTUM](https://photum.org/)**:
 
-- **[photum-fsoc-mvp](https://github.com/MBack11/photum-fsoc-mvp)** — phoTUM free-space optical link (digital twin, receiver aperture, OOK image transfer)
-- **[eda-wr-onoc](https://github.com/MBack11/eda-wr-onoc)** — design automation for WR-ONoCs (laser-power-aware ring/shortcut search, Chair of EDA)
+- **[eda-wr-onoc](https://github.com/MBack11/eda-wr-onoc)** — design automation for WR-ONoCs (laser-power-aware ring/shortcut search)
+- **[photum-fsoc-mvp](https://github.com/MBack11/photum-fsoc-mvp)** — phoTUM free-space optical link (digital twin, OOK image transfer) · [live 3D twin](https://mback11.github.io/photum-fsoc-mvp/)
 
 **Stack:** C++, Gurobi, Python, CAD / 3D printing, optics  
 **Club:** [phoTUM](https://photum.org/) · Munich
-
-Live twin: [mback11.github.io/photum-fsoc-mvp](https://mback11.github.io/photum-fsoc-mvp/)
